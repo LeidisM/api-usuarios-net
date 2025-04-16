@@ -17,8 +17,7 @@ Servicio web construido en .NET para registro y autenticación de usuarios media
 
 Ejemplo de JSON para Postman:
 
-Copy
-## 📤 Ejemplo de Request (Postman)
+Ejemplo de Request (Postman)
 ```json
 {
   "nombreUsuario": "ejemplo",
